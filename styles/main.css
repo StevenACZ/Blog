@@ -172,13 +172,14 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 100px;
   
     padding: 0 20px;
     box-sizing: border-box;
   }
   
     .header__nav {
-      width: 260px;
+      width: 270px;
     }
 
       .header__nav > ul > li > a {
@@ -644,7 +645,7 @@ a {
           position: absolute;
           background-color: #316099;
           border-radius: 0 200px 0 0;
-          height: 800px;
+          height: 1020px;
           margin-right: 18px;
       
           top: 0;
@@ -673,7 +674,7 @@ a {
           position: absolute;
           background-color: #316099;
           border-radius: 0 200px 0 0;
-          height: 1510px;
+          height: 1590px;
           margin-right: 18px;
       
           top: 0;
@@ -867,11 +868,11 @@ a {
     
     @media screen and (max-width: 520px) {
       .afrianska {
-        margin-bottom: 20px;
+        margin-bottom: 50px;
       }
 
       .about-us {         
-        margin-bottom: 20px;
+        margin-bottom: 50px;
       }
 
     }
